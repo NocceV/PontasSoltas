@@ -1,0 +1,30 @@
+<Pensamentos Iniciais>
+
+--Sobre o projeto--
+
+O projeto podera criar um novo filme/serie com seus devidos atributos como
+tipo,nome,qtd episodeos caso for uma série, atores,gêneroe entre outros.
+Com o filme/série criado o usuário poderá criar quantas pontas soltas ele quiser. 
+
+O que é uma ponta solta?
+É quando arcos de personagens ou mistérios aparecem e a pessoa para seguir com teorias e também
+acompanhar a serie ou o filme sem se esquecer de nada cria uma "ponta solta" ou uma anotação daquele novo acontecimento
+
+Após a ponta solta criada, ela fica em aberto ate ser solucionada ou ter um fim para ela.
+
+A ponta solta pode ser discutida ou atualizada de acordo com o decorrer da série.Ela só é sulucionada quando obtiver uma real resposta sobre ela.
+
+A princípio seria algo de uso pessoal, porém pensando em  algo futuro podeira concerteza ajudar comunidades a discutirem e teorizarem sobre qualquer assunto.
+
+
+--Front End--
+-Página até então estática e responsiva
+-HTML com BootStrap
+
+--BackEnd--
+
+-jS
+
+--Banco de Dados--
+
+-MySql
